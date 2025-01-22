@@ -2,7 +2,7 @@
 
 
 ## I'm currently learning Java, HTML and CSS.
-## I'm looking for help Java
+## I'm looking for help with Java
 ## I'm in an Apprenticeship as Computer Scientist
 
 
