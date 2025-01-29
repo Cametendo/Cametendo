@@ -20,7 +20,7 @@
 
 
 - How to reach me: E-Mail: contact.cametendo@gmail.com ¦ Discord: cametendo
-- My favorite Quote: "I live every day hoping I'm a sligthly better than I was the day before" - Shoko Makinohara
+- My favorite Quote: "I live every day hoping I'm a sligthly better Person than I was the day before" - Shoko Makinohara
 
 
 <!--
