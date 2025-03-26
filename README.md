@@ -9,7 +9,7 @@
 # Personal stuff about me
 
 
-- I enjoy watching anime. My three favorites are: "Rascal does not Dream of Bunny Girl Senpai", "Date A Live" and "Assasination Classroom"
+- I enjoy watching anime. My three favorites are: "Rascal does not Dream of Bunny Girl Senpai", "Assasination Classroom" and "Classroom of the Elite" 
 - I enjoy reading many different kind of books, mangas and light novels. (I enjoy many different gernes)
 - I enjoy talking to / discussing with other people about many interesting things.
 - I enjoy listening aswell as making music using FL Studio.
