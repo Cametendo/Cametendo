@@ -1,17 +1,16 @@
 # About me
 
 
-- I'm currently learning Java, HTML and CSS.
-- I'm looking for help with Java.
+- I'm currently learning Java, HTML/CSS and (Vue)JS.
 - I'm in an Apprenticeship as Computer Scientist.
 
 
 # Personal stuff about me
 
 
-- I enjoy watching anime. My three favorites are: "Rascal does not Dream of Bunny Girl Senpai", "Assasination Classroom" and "Classroom of the Elite" 
+- I enjoy watching anime. My three favorites are: "Rascal does not Dream of Bunny Girl Senpai", "Assasination Classroom" and "Steins;Gate" 
 - I enjoy reading many different kind of books, mangas and light novels. (I enjoy many different gernes)
-- I enjoy talking to / discussing with other people about many interesting things.
+- I enjoy talking / discussing with other people about pretty much anything (I'm always for a discussion about the most random stuff xD).
 - I enjoy listening aswell as making music using FL Studio.
 - My favorite charater is "Mai Sakurajima" from "Rascal does not Dream of Bunny Girl Senpai"
 
