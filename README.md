@@ -13,7 +13,7 @@
 - My favorite charater is ["Mai Sakurajima"](https://aobuta.fandom.com/wiki/Mai_Sakurajima) from ["Rascal does not Dream of Bunny Girl Senpai"](https://en.wikipedia.org/wiki/Rascal_Does_Not_Dream).
 
 # Tech I use (a work):
-Raspberry Pi: EndeavourOS (KDE Plasma)
+Raspberry Pi: EndeavourOS (KDE Plasma)  
 HP Elitebook: Arch Linux (Hyprland with ml4w / KDE Plasma)
 
 # Other things
