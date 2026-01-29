@@ -1,7 +1,6 @@
 # About me
 - Currently learning: Java and (Vue)JS
 - Apprenticeship: Computer Science (who could've guessed...)
----
 
 # Personal stuff
 - I enjoy watching anime. My three favorites are:
@@ -12,12 +11,10 @@
 - I enjoy talking / discussing with other people about pretty much anything (I'm always open for a discussion about the most random stuff xD).
 - I enjoy listening to music aswell as making music using [FL Studio](https://www.image-line.com/).
 - My favorite charater is ["Mai Sakurajima"](https://aobuta.fandom.com/wiki/Mai_Sakurajima) from ["Rascal does not Dream of Bunny Girl Senpai"](https://en.wikipedia.org/wiki/Rascal_Does_Not_Dream).
----
 
 # Tech I use (a work):
 Raspberry Pi: EndeavourOS (KDE Plasma)
 HP Elitebook: Arch Linux (Hyprland with ml4w / KDE Plasma)
----
 
 # Other things
 - Contact:
