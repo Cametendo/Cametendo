@@ -16,6 +16,10 @@
 Raspberry Pi: EndeavourOS (KDE Plasma)  
 HP Elitebook: Arch Linux (Hyprland with ml4w / KDE Plasma)
 
+# Tech I use (at home)
+Acer Predator PO3-655: Arch Linux (Hyprland with ml4w / KDE Plasma)
+Acer Nitro AN517-52: Arch Linux (TTY because Server)
+
 # Other things
 - Contact:
   - E-Mail: contact.cametendo@gmail.com
