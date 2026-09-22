@@ -13,12 +13,13 @@
 - My favorite charater is ["Mai Sakurajima"](https://aobuta.fandom.com/wiki/Mai_Sakurajima) from ["Rascal does not Dream of Bunny Girl Senpai"](https://en.wikipedia.org/wiki/Rascal_Does_Not_Dream).
 
 # Tech I use (at work):
-Raspberry Pi: EndeavourOS (KDE Plasma)  
-HP Elitebook: Arch Linux (Hyprland with ml4w / KDE Plasma)
+HP Elitebook: Arch Linux (Sway with [Myi3Config](https://github.com/JGH0/MyI3Config))
 
 # Tech I use (at home)
-Acer Predator PO3-655: Arch Linux (Hyprland with ml4w / KDE Plasma)
+Acer Predator PO3-655: Arch Linux (Hyprland with ml4w) / Windows 11
 Acer Nitro AN517-52: Arch Linux (TTY because Server)
+Raspberry Pi 500 Board: EndeavourOS headless Server
+HP EliteDesk 800 G5 Desktop Mini: Arch Linux (TTY because Server... again)
 
 # Other things
 - Contact:
