@@ -23,7 +23,7 @@
 
 # Other things
 - Contact:
-  - E-Mail: contact.cametendo@gmail.com
+  - E-Mail: contact@¢ametendo.org
   - Discord: cametendo
 - Favorite Quote: "I live every day hoping I'm a sligthly better Person than I was the day before" - [Shoko Makinohara](https://aobuta.fandom.com/wiki/Shoko_Makinohara).
 
